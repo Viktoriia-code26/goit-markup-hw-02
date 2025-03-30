@@ -13,7 +13,7 @@ body {
         line-height: 1.17;
         letter-spacing: 0.03em;
         text-transform: uppercase;
-        color: #2e2f42;
+        color: #4d5ae5;
     }
 .accent {
         font-family: "Raleway", sans-serif;
@@ -22,14 +22,8 @@ body {
             line-height: 1.17;
             letter-spacing: 0.03em;
             text-transform: uppercase;
-            color: #4d5ae5;;
-    }
-      .navigat {
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.50;
-    letter-spacing: 0.02em;
-      }
+            color: #2e2f42;;
+    } 
     .social a{
         color: #2e2f42;
         font-weight: 500;
@@ -139,6 +133,8 @@ width: calc((100/4)-(20px*2)/4);
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
+    text-transform: capitalize;
+    color: #2e2f42;
 }
 .portfolio-name {
     font-weight: 500;
@@ -158,7 +154,7 @@ width: calc((100/4)-(20px*2)/4);
     background: #2e2f42;
     color: #f4f4fd;
 }
-.logo-foter{
+.accent-foter{
     font-family: "Raleway", sans-serif;
         font-weight: 700;
         font-size: 18px;
