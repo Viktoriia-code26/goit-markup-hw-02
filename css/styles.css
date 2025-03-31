@@ -37,12 +37,14 @@ body {
       .social a:focus{
         color: #404bbf;
       }
+      .social-links{
+        font-style: normal;
+      }
 .social-links a{
         font-size: 16px;
         line-height: 1.50;
         letter-spacing: 0.02em;
         color: #434455;
-        font-style: normal;
     }
 .social-links a:hover{
     color: #404bbf;s
