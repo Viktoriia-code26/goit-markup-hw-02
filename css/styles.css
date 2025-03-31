@@ -47,7 +47,7 @@ body {
         color: #434455;
     }
 .social-links a:hover{
-    color: #404bbf;s
+    color: #404bbf;
 }
 .social-links a:focus{
     color: #404bbf;
@@ -149,15 +149,6 @@ background-color: #f4f4fd;
 .item{
     background: #2e2f42;
 }
-.item-logo{
-    font-family: "Raleway", sans-serif;
-        font-weight: 700;
-        font-size: 18px;
-        line-height: 1.17;
-        letter-spacing: 0.03em;
-        text-transform: uppercase;
-        color: #4d5ae5;
-    }
 .item-accent{
     font-family: "Raleway", sans-serif;
         font-weight: 700;
@@ -167,7 +158,6 @@ background-color: #f4f4fd;
         text-transform: uppercase;
         color: #f4f4fd;
 }
-
 .item-text{
     line-height: 1.50;
     letter-spacing: 0.02em;
